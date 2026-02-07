@@ -1,4 +1,4 @@
 # Contributors
 
 Students who completed this lab:
-@CatherineHar
+- @CatherineHar
